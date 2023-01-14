@@ -1,11 +1,10 @@
+setup the bot in https://discord.com/developers/applications/
 
+cpy the token and use it in your code and run it
 
-
-
-
-
-
-
+#Adding TOKEN
+cpy the token from developer portel and paste to a new file extention as {.env}
+and make a variable {TK} pointing towards main.py
 
 #Additional info for python langaage
 Using intents in discord.py
