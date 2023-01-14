@@ -1,0 +1,12 @@
+#required python libraries
+
+import discord
+import os
+from dotenv import load_dotenv
+from neuralintents import GenericAssistant
+
+(import os, is mandatory inorder
+to hide the Token from the source file)
+
+#Use pip install <library_name> in
+Administrator(CMD)
